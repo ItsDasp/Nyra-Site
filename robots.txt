@@ -1,0 +1,16 @@
+# ================================
+# Robots.txt - Nyra
+# ================================
+
+User-agent: *
+Allow: /
+
+Disallow: /assets/private/
+Disallow: /admin/
+Disallow: /__tests__/
+Disallow: /node_modules/
+
+Allow: /assets/
+Allow: /assets/apk/
+
+Sitemap: https://nyra.xdasp.me/sitemap.xml
