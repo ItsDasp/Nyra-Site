@@ -49,12 +49,9 @@ const Download = () => {
               
               <div className="relative z-10">
                 <div className="flex items-center gap-4 mb-6">
-                  <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-primary to-nyra-purple-light flex items-center justify-center nyra-button-glow">
-                    <span className="text-primary-foreground font-bold text-2xl">N</span>
-                  </div>
                   <div>
                     <h2 className="text-2xl font-bold">Nyra</h2>
-                    <p className="text-muted-foreground">Versión 2.1.0</p>
+                    <p className="text-muted-foreground">Versión 2.0.0</p>
                   </div>
                 </div>
 
